@@ -61,7 +61,7 @@ For confidentiality reasons, the data shown in this dashboard is synthetic.
 The full project (data warehouse, ETL, forecasting model and AI agent) will be documented in the repository below.
 
 <div align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME"><img src="https://img.shields.io/badge/View_the_Full_Project-Repository-C1FF72?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"></a>
+  <a href="https://github.com/HasnaElotmani/Product-Based-Analysis-Dashboard-Project/blob/main/README.md"><img src="https://img.shields.io/badge/View_the_Full_Project-Repository-C1FF72?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"></a>
 </div>
 
 <br/>
