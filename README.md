@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=C1FF72"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-0B1F3A?style=for-the-badge&logo=gmail&logoColor=C1FF72"></a>
+<a href="https://www.linkedin.com/in/hasna-elotmani-755909263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=C1FF72"></a>
+<a href="mailto:hasnaell583@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B1F3A?style=for-the-badge&logo=gmail&logoColor=C1FF72"></a>
 
 </div>
 
