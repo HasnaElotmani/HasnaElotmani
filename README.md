@@ -40,11 +40,11 @@ I'm currently looking for BI Analyst, Data Analyst and HR Analyst roles, in Moro
 
 <h2 align="center">📊 Featured Project</h2>
 
-<p align="center"><img src="https://github.com/HasnaElotmani/assets/blob/main/powerbi_dashboard.png" width="60%" /></p>
-
 <div align="center">
-  <img src="assets/powerbi_dashboard.png" alt="Power BI dashboard: Product Based Analysis of the global phosphate trade" width="90%" />
+  Power BI dashboard: Product Based Analysis of the global phosphate trade
 </div>
+
+<p align="center"><img src="https://github.com/HasnaElotmani/assets/blob/main/powerbi_dashboard.png" width="60%" /></p>
 
 <br/>
 
