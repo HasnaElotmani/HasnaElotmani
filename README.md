@@ -44,6 +44,8 @@ I'm currently looking for BI Analyst, Data Analyst and HR Analyst roles, in Moro
   Power BI dashboard: Product Based Analysis of the global phosphate trade
 </div>
 
+<br/><br/>
+
 <p align="center"><img src="https://github.com/HasnaElotmani/assets/blob/main/powerbi_dashboard.png" width="60%" /></p>
 
 <br/>
