@@ -8,8 +8,8 @@
 
 <a href="https://www.linkedin.com/in/hasna-elotmani-755909263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=C1FF72"></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hasnaell583@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B1F3A?style=for-the-badge&logo=gmail&logoColor=C1FF72"></a>
-<a href="assets/Hasna_El_Otmani_resume.pdf"><img src="https://img.shields.io/badge/Resume-English_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
-<a href="assets/CV_Hasna_EL_OTMANI.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
+<a href="assets/Hasna El Otmani resume.pdf"><img src="https://img.shields.io/badge/Resume-English_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
+<a href="assets/CV Hasna EL OTMANI.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
 
 </div>
 
