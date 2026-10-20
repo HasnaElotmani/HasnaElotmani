@@ -11,10 +11,6 @@
 <a href="assets/Hasna_El_Otmani_resume.pdf"><img src="https://img.shields.io/badge/Resume-English_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
 <a href="assets/CV_Hasna_EL_OTMANI.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais_PDF-C1FF72?style=for-the-badge&labelColor=0B1F3A"></a>
 
-<br/>
-
-<sub>hasnaell583@gmail.com</sub>
-
 </div>
 
 <br/>
@@ -27,7 +23,7 @@ I'm a computer engineering graduate (MIAGE specialization, EMSI) with a strong i
 
 My focus is on building dashboards that get used, designing reliable data pipelines, and creating models that help businesses plan ahead. My MIAGE background means I like working where information systems, project management and technical engineering meet.
 
-I'm currently looking for BI Analyst, Data Analyst, HR Analyst and Product Owner roles, in Morocco, Europe, the UK and Canada.
+I'm currently looking for BI Analyst, Data Analyst and HR Analyst roles, in Morocco, Europe, the UK and Canada.
 
 <br/>
 
@@ -52,8 +48,6 @@ I'm currently looking for BI Analyst, Data Analyst, HR Analyst and Product Owner
 
 <br/>
 
-**End-to-End Decision Pipeline for the Phosphate Trade Market**
-
 This is the "Product Based Analysis" page of the Power BI dashboard I built during my final-year project at OCP Group. It lets users explore global phosphate trade by product, country and period:
 
 - **KPI cards:** current vs previous period volumes, plus top importers and exporters.
@@ -61,6 +55,7 @@ This is the "Product Based Analysis" page of the Power BI dashboard I built duri
 - **Trends:** product distribution over time, and each country's share of imports per year.
 - **Filters and refresh:** slicers for year, quarter, month, product, and import and export countries, plus a button to refresh the data.
 
+For confidentiality reasons, the data shown in this dashboard is synthetic.
 The full project (data warehouse, ETL, forecasting model and AI agent) will be documented in the repository below.
 
 <div align="center">
